@@ -24,8 +24,7 @@
 
 ### Результат
 
-<img width="965" height="704" alt="image" src="https://github.com/user-attachments/assets/80e1de78-8c6b-4f05-80f1-8d6db4c4cfd2" />
-
+<img width="934" height="702" alt="image" src="https://github.com/user-attachments/assets/acc01c68-bb3b-4882-bf64-392124004fb8" />
 
 
 ### 🎮 Бонусные задания
