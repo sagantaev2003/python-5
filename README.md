@@ -140,13 +140,19 @@
 
 ### Результат
 
-<img width="1046" height="835" alt="image" src="https://github.com/user-attachments/assets/f74514cd-e705-46ee-b207-48de21e43b24" />
+<img width="1072" height="825" alt="image" src="https://github.com/user-attachments/assets/6b4708ef-974a-49c6-9b3b-ed5d5ccf75d5" />
 
-<img width="971" height="707" alt="image" src="https://github.com/user-attachments/assets/cb8efb5f-600d-4f19-a191-5c6919ef74cb" />
+<img width="886" height="705" alt="image" src="https://github.com/user-attachments/assets/a33b7f95-9548-4bd7-9796-7f43012c38dd" />
 
-<img width="1011" height="639" alt="image" src="https://github.com/user-attachments/assets/9519eaf7-e280-4a29-97bc-d3924a7ed860" />
+<img width="901" height="697" alt="image" src="https://github.com/user-attachments/assets/3d4bfde6-d889-4b1d-8701-3a4a68e025ee" />
 
-<img width="1006" height="686" alt="image" src="https://github.com/user-attachments/assets/3f6f7cec-4aac-4911-87e0-b53421effc15" />
+<img width="906" height="682" alt="image" src="https://github.com/user-attachments/assets/c920dbdf-561e-4379-808a-e9f2c4a7be42" />
+
+
+
+
+
+
 
 
 
