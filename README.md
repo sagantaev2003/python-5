@@ -136,7 +136,19 @@
 
 
 ### 📝 Файл:
-- **main.py** — код программы.
+- **mainNewClassEvent9.py** — код программы.
 
 ### Результат
+
+<img width="978" height="817" alt="image" src="https://github.com/user-attachments/assets/a559647c-4060-4323-a62e-4533d1403cbc" />
+
+<img width="899" height="706" alt="image" src="https://github.com/user-attachments/assets/fd3f835e-0c9c-4373-a15e-697882a09903" />
+
+<img width="1026" height="704" alt="image" src="https://github.com/user-attachments/assets/939a0b25-8d60-4a8f-912b-c2b5c6681831" />
+
+<img width="764" height="703" alt="image" src="https://github.com/user-attachments/assets/458c7cbb-3c25-430d-8889-068c9206d6ef" />
+
+
+
+
 
