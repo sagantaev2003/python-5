@@ -140,7 +140,7 @@
 
 ### Результат
 
-<img width="1069" height="821" alt="image" src="https://github.com/user-attachments/assets/ceda2e61-6b07-40d9-8cd5-f231b1d0cf7b" />
+<img width="1050" height="828" alt="image" src="https://github.com/user-attachments/assets/ca2c963b-9c53-4163-b2a8-10d1d865507b" />
 
 <img width="896" height="702" alt="image" src="https://github.com/user-attachments/assets/7f49caaf-e9ae-42ec-a189-0b030bf6e6f9" />
 
